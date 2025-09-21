@@ -2,4 +2,4 @@
 # meu primeiro hello world em python !!
 print("hello world")
 print('tina'.upper())
-print("57 + 9")
+print(57 + 9)
