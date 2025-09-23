@@ -30,7 +30,6 @@ print(57 + 9)
 
 import os
 
-
 current_language = os.getenv("LANG", "en_US")[:5]
 
 msg = "Hello World!"
